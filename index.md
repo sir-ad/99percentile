@@ -7,6 +7,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# 99PERCENTILE.
+# 99 PERCENTILE.
 I beleive in teaching Offline. Prepare yourself for CAT / UPSC / NEET / INTERVIEWS.
 Study from the best : Adarsh Agrahari - 99.87 %ile in CAT 2020 , AIR 152 UPSC IFoS
