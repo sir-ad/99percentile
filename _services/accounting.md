@@ -8,6 +8,12 @@ layout: service
 
 Roar into IIM's
 
+BREAKING THROUGH THE 85% BARRIER
+To get to the 85% and the low 90's, one needs dilligence and perhaps little less. If you do the grind and fight to have a sound understanding of basics, this is the first plateau you'll reach. The climb beyond this is far tougher...
+
+MAKING THE CLIMB EASIER
+Climbing the Everest is a lot easier if you've got a guide who's been there before, and knows how to push you hard to get there yourself. We take the CAT every year, and pride ourselves on being there to push our students over the finish line.
+
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
 # Objectives 
