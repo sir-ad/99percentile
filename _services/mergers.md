@@ -1,14 +1,12 @@
 ---
-title: "Mergers"
+title: "Interviews"
 date: 2018-11-28T15:15:34+10:00
 featured: true
 weight: 4
 layout: service
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Nervous about your GD/PI's, theres no need to worry. We plan end to end strategy to bell GD-PI's be it of UPSC or CAT we make you well versed.
 
 ## Ne verba patulosque numen vix libet
 
