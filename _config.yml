@@ -1,7 +1,7 @@
 baseurl: ''
 exclude: ['README.md']
 permalink: pretty
-title: 'Jekyll Serif'
+title: '99 Percentile'
 
 google_analytics_id: ""
 homepage:
@@ -11,10 +11,10 @@ logo:
   desktop: "images/logo/logo.svg"
   desktop_height: "36px"
 footer:
-  copyright_text: 'Free Jekyll theme by <a class="zerostatic" href="https://www.zerostatic.io">www.zerostatic.io</a>'
+  copyright_text: 'Adarsh Agrahari'
 
 seo:
-  meta_og_title: "Jekyll Serif Theme"
+  meta_og_title: "99 Percentile"
   meta_og_type: "website"
   meta_og_url: "https://jekyll-serif-theme.netlify.app"
   meta_og_image: "https://raw.githubusercontent.com/zerostaticthemes/jekyll-serif-theme/master/screenshots/tn.png"
